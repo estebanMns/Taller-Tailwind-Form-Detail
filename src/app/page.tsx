@@ -43,7 +43,7 @@ export default function Home() {
           <div className="flex justify-between items-start pb-4">
             <div>
               <h2 className="text-gray-600 font-bold">Accent Color</h2>
-              <p className="text-gray-400 text-sm">Pick your platform's main color</p>
+              <p className="text-gray-400 text-sm">Pick your platforms main color</p>
             </div>
             <div className="flex items-center gap-3 mt-2">
               <div className="w-6 h-6 rounded-full bg-red-500"></div>
